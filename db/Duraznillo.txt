@@ -1,0 +1,67 @@
+[
+  {
+    "Arbol_id": 2316,
+    "Folio": 196,
+    "Usuario_id": "usuario1822",
+    "Fecha_plantado": "",
+    "Especie": "Duraznillo",
+    "Fecha_registro": "2013-10-13",
+    "Municipio": "Monterrey",
+    "Direccion": "Carretera Federal 85, Valle del Márquez, 64790 Monterrey, NL, México",
+    "lon": -100.2921295,
+    "lat": 25.6256905,
+    "id": "541a2cac908e69c4ed6fbeec"
+  },
+  {
+    "Arbol_id": 12858,
+    "Folio": 564,
+    "Usuario_id": "usuario845",
+    "Fecha_plantado": "2014-03-11T00:00:00Z",
+    "Especie": "Duraznillo",
+    "Fecha_registro": "2014-03-11",
+    "Municipio": "Juárez",
+    "Direccion": "Gral. Santiago Tapia 210, Joaquín Garza y Garza, 67267 Benito Juárez, NL, México",
+    "lon": -100.0928345,
+    "lat": 25.6506844,
+    "id": "541a2caf908e69c4ed6fe73b"
+  },
+  {
+    "Arbol_id": 13690,
+    "Folio": 2405,
+    "Usuario_id": "usuario2358",
+    "Fecha_plantado": "",
+    "Especie": "Duraznillo",
+    "Fecha_registro": "2014-03-19",
+    "Municipio": "San Pedro",
+    "Direccion": "Independencia 220, Casco Urbano, 66230 NL, México",
+    "lon": "",
+    "lat": "",
+    "id": "541a2caf908e69c4ed6fea71"
+  },
+  {
+    "Arbol_id": 19899,
+    "Folio": 0,
+    "Usuario_id": "usuario2498",
+    "Fecha_plantado": "",
+    "Especie": "Duraznillo",
+    "Fecha_registro": "2014-04-25",
+    "Municipio": "San Nicolás",
+    "Direccion": "Avenida República Mexicana 1503-C TAPICERIA CASTILLO, Residencial Roble 5o Sector, 66414 NL, México",
+    "lon": "",
+    "lat": "",
+    "id": "541a2cb1908e69c4ed7001fd"
+  },
+  {
+    "Arbol_id": 23011,
+    "Folio": 0,
+    "Usuario_id": "usuario2273",
+    "Fecha_plantado": "",
+    "Especie": "Duraznillo",
+    "Fecha_registro": "2014-05-09",
+    "Municipio": "Guadalupe",
+    "Direccion": "15 de Mayo 501, Veintiuno de Enero, 67160 NL, México",
+    "lon": -100.215683,
+    "lat": 25.6887665,
+    "id": "541a2cb2908e69c4ed700e14"
+  }
+]
